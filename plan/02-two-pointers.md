@@ -26,23 +26,35 @@ while (l < r) {
   2.
   3.
 
-## Ngày 2–13 - Luyện tập (1 bài/ngày, dễ → khó)
-Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
+## Ngày 2–13 - Luyện tập (2 bài/ngày, dễ → khó)
+Mỗi ngày 2 bài (khoảng 60–90 phút). Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
 
 | Ngày | Xong | # | Bài | Độ khó | Thời gian | Ghi chú / bài học |
 |---|---|---|---|---|---|---|
 | Ngày 2 | [ ] | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | | |
+| Ngày 2 | [ ] | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | | |
 | Ngày 3 | [ ] | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | | |
+| Ngày 3 | [ ] | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | | |
 | Ngày 4 | [ ] | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | | |
+| Ngày 4 | [ ] | 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | Easy | | |
 | Ngày 5 | [ ] | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | | |
+| Ngày 5 | [ ] | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | | |
 | Ngày 6 | [ ] | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | | |
+| Ngày 6 | [ ] | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | Easy | | |
 | Ngày 7 | [ ] | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | | |
+| Ngày 7 | [ ] | 844 | [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/) | Easy | | |
 | Ngày 8 | [ ] | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | Medium | | |
+| Ngày 8 | [ ] | 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | | |
 | Ngày 9 | [ ] | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | | |
+| Ngày 9 | [ ] | 633 | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | Medium | | |
 | Ngày 10 | [ ] | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | | |
+| Ngày 10 | [ ] | 611 | [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/) | Medium | | |
 | Ngày 11 | [ ] | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | | |
+| Ngày 11 | [ ] | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | | |
 | Ngày 12 | [ ] | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | | |
+| Ngày 12 | [ ] | 581 | [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) | Medium | | |
 | Ngày 13 | [ ] | 42 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Hard | | |
+| Ngày 13 | [ ] | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | Medium | | |
 
 ## Ngày 14 - Ôn tập & mock
 - [ ] Làm lại các bài không tự giải được (đánh dấu ở bảng trên)

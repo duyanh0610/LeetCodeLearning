@@ -27,23 +27,35 @@ for (const [s, e] of intervals.slice(1)) {
   2.
   3.
 
-## Ngày 2–13 - Luyện tập (1 bài/ngày, dễ → khó)
-Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
+## Ngày 2–13 - Luyện tập (2 bài/ngày, dễ → khó)
+Mỗi ngày 2 bài (khoảng 60–90 phút). Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
 
 | Ngày | Xong | # | Bài | Độ khó | Thời gian | Ghi chú / bài học |
 |---|---|---|---|---|---|---|
 | Ngày 2 | [ ] | 455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies/) | Easy | | |
+| Ngày 2 | [ ] | 860 | [Lemonade Change](https://leetcode.com/problems/lemonade-change/) | Easy | | |
 | Ngày 3 | [ ] | 56 | [Merge Intervals](https://leetcode.com/problems/merge-intervals/) | Medium | | |
+| Ngày 3 | [ ] | 605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) | Easy | | |
 | Ngày 4 | [ ] | 57 | [Insert Interval](https://leetcode.com/problems/insert-interval/) | Medium | | |
+| Ngày 4 | [ ] | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | Easy | | |
 | Ngày 5 | [ ] | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | Medium | | |
+| Ngày 5 | [ ] | 976 | [Largest Perimeter Triangle](https://leetcode.com/problems/largest-perimeter-triangle/) | Easy | | |
 | Ngày 6 | [ ] | 452 | [Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) | Medium | | |
+| Ngày 6 | [ ] | 1005 | [Maximize Sum Of Array After K Negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) | Easy | | |
 | Ngày 7 | [ ] | 986 | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) | Medium | | |
+| Ngày 7 | [ ] | 881 | [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/) | Medium | | |
 | Ngày 8 | [ ] | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | | |
+| Ngày 8 | [ ] | 1029 | [Two City Scheduling](https://leetcode.com/problems/two-city-scheduling/) | Medium | | |
 | Ngày 9 | [ ] | 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | | |
+| Ngày 9 | [ ] | 406 | [Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) | Medium | | |
 | Ngày 10 | [ ] | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | Medium | | |
+| Ngày 10 | [ ] | 738 | [Monotone Increasing Digits](https://leetcode.com/problems/monotone-increasing-digits/) | Medium | | |
 | Ngày 11 | [ ] | 763 | [Partition Labels](https://leetcode.com/problems/partition-labels/) | Medium | | |
+| Ngày 11 | [ ] | 1353 | [Maximum Number of Events That Can Be Attended](https://leetcode.com/problems/maximum-number-of-events-that-can-be-attended/) | Medium | | |
 | Ngày 12 | [ ] | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | Medium | | |
+| Ngày 12 | [ ] | 135 | [Candy](https://leetcode.com/problems/candy/) | Hard | | |
 | Ngày 13 | [ ] | 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | | |
+| Ngày 13 | [ ] | 330 | [Patching Array](https://leetcode.com/problems/patching-array/) | Hard | | |
 
 ## Ngày 14 - Ôn tập & mock
 - [ ] Làm lại các bài không tự giải được (đánh dấu ở bảng trên)

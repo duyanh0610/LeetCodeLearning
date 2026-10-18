@@ -4,7 +4,7 @@ Mục tiêu: luyện thuật toán để đi phỏng vấn. Code bằng TypeScri
 
 ## Nhịp học của mỗi dạng (14 ngày)
 - **Ngày 1**: học lý thuyết của dạng (ý chính, template, dấu hiệu nhận biết). Không giải bài.
-- **Ngày 2–13**: mỗi ngày 1 bài của dạng đó, từ dễ đến khó.
+- **Ngày 2–13**: mỗi ngày 2 bài của dạng đó (24 bài/dạng), từ dễ đến khó.
 - **Ngày 14**: ôn lại bài chưa tự giải được + mock 1 bài mới bấm giờ.
 - Xong 14 ngày thì sang dạng tiếp theo. Tổng cộng 13 dạng ≈ 26 tuần.
 

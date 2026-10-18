@@ -28,23 +28,35 @@ while (q.length) {
   2.
   3.
 
-## Ngày 2–13 - Luyện tập (1 bài/ngày, dễ → khó)
-Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
+## Ngày 2–13 - Luyện tập (2 bài/ngày, dễ → khó)
+Mỗi ngày 2 bài (khoảng 60–90 phút). Mỗi bài: tự nghĩ 25–30 phút → bí thì xem gợi ý → **tự code lại không nhìn** → ghi lại bài học. Lưu code vào `solutions/`. Nếu còn sức, làm thêm bài cùng dạng trên LeetCode.
 
 | Ngày | Xong | # | Bài | Độ khó | Thời gian | Ghi chú / bài học |
 |---|---|---|---|---|---|---|
 | Ngày 2 | [ ] | 733 | [Flood Fill](https://leetcode.com/problems/flood-fill/) | Easy | | |
+| Ngày 2 | [ ] | 463 | [Island Perimeter](https://leetcode.com/problems/island-perimeter/) | Easy | | |
 | Ngày 3 | [ ] | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | Medium | | |
+| Ngày 3 | [ ] | 1971 | [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) | Easy | | |
 | Ngày 4 | [ ] | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | Medium | | |
+| Ngày 4 | [ ] | 997 | [Find the Town Judge](https://leetcode.com/problems/find-the-town-judge/) | Easy | | |
 | Ngày 5 | [ ] | 547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | Medium | | |
+| Ngày 5 | [ ] | 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | Medium | | |
 | Ngày 6 | [ ] | 133 | [Clone Graph](https://leetcode.com/problems/clone-graph/) | Medium | | |
+| Ngày 6 | [ ] | 785 | [Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) | Medium | | |
 | Ngày 7 | [ ] | 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/) | Medium | | |
+| Ngày 7 | [ ] | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/) | Medium | | |
 | Ngày 8 | [ ] | 417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | | |
+| Ngày 8 | [ ] | 542 | [01 Matrix](https://leetcode.com/problems/01-matrix/) | Medium | | |
 | Ngày 9 | [ ] | 207 | [Course Schedule](https://leetcode.com/problems/course-schedule/) | Medium | | |
+| Ngày 9 | [ ] | 399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division/) | Medium | | |
 | Ngày 10 | [ ] | 210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii/) | Medium | | |
+| Ngày 10 | [ ] | 802 | [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) | Medium | | |
 | Ngày 11 | [ ] | 684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection/) | Medium | | |
+| Ngày 11 | [ ] | 1584 | [Min Cost to Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/) | Medium | | |
 | Ngày 12 | [ ] | 743 | [Network Delay Time](https://leetcode.com/problems/network-delay-time/) | Medium | | |
+| Ngày 12 | [ ] | 787 | [Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) | Medium | | |
 | Ngày 13 | [ ] | 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/) | Hard | | |
+| Ngày 13 | [ ] | 778 | [Swim in Rising Water](https://leetcode.com/problems/swim-in-rising-water/) | Hard | | |
 
 ## Ngày 14 - Ôn tập & mock
 - [ ] Làm lại các bài không tự giải được (đánh dấu ở bảng trên)
