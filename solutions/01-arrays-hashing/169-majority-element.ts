@@ -28,8 +28,30 @@ import { check, report } from "../ds/test-utils";
 // ===== LỜI GIẢI (khi nộp LeetCode chỉ cần copy phần hàm bên dưới) =====
 function majorityElement(nums: number[]): number {
   // TODO
-  throw new Error("TODO");
+  const map = new Map<number,number>();
+  let maxCount = 0;
+  let result = 0;
+  for(let i = 0; i< nums.length; i++) {
+    map.set(nums[i], (map.get(nums[i]) ?? 0) + 1);
+
+    if(map.get(nums[i])! > maxCount) {
+      maxCount = map.get(nums[i])!;
+      result = nums[i];
+    }
+  }
+  return result;
 }
+
+// Cách 2: Boyer-Moore voting - Time O(n), Space O(1)
+// function majorityElement(nums: number[]): number {
+//   let candidate = 0;
+//   let count = 0;
+//   for (const x of nums) {
+//     if (count === 0) candidate = x;     // hết điểm -> đổi ứng viên
+//     count += x === candidate ? 1 : -1;  // giống thì +1, khác thì -1
+//   }
+//   return candidate;
+// }
 
 // ===== TEST (chạy: npx tsx solutions/01-arrays-hashing/169-majority-element.ts) =====
 check("ví dụ 1", () => majorityElement([3, 2, 3]), 3);
