@@ -25,9 +25,26 @@
 import { check, report } from "../ds/test-utils";
 
 // ===== LỜI GIẢI (khi nộp LeetCode chỉ cần copy phần hàm bên dưới) =====
+// NOTE - điểm cần cải thiện:
+// 1. Thêm kiểm tra độ dài ở đầu hàm: if (s.length !== t.length) return false;
+//    (code vẫn đúng nếu thiếu, nhưng thoát sớm được và phỏng vấn thường mong thấy bước này)
+// 2. Thoát sớm khi đếm bị âm ở vòng trừ của t: t có nhiều ký tự đó hơn s -> return false ngay.
+// 3. Follow-up Unicode: duyệt bằng for (const c of s) thay vì s[i] để không tách cặp surrogate (emoji).
 function isAnagram(s: string, t: string): boolean {
-  // TODO
-  throw new Error("TODO");
+  const map = new Map<string, number>();
+  for (let i = 0; i < s.length; i++) {
+    map.set(s[i], (map.get(s[i]) ?? 0) + 1);
+  }
+
+  for (let i = 0; i < t.length; i++) {
+    map.set(t[i], (map.get(t[i]) ?? 0) - 1);
+  }
+
+  for (const value of map.values()) {
+    if (value !== 0) return false;
+  }
+
+  return true;
 }
 
 // ===== TEST (chạy: npx tsx solutions/01-arrays-hashing/242-valid-anagram.ts) =====
